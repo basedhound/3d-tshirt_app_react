@@ -2,7 +2,7 @@
     <a href="https://3d-tshirt-fv.netlify.app/" target="_blank">
       <img src="client/public/design/preview.webp" alt="Project Banner">
     </a>
-  <h3 align="center">iPhone 15 Website</h3>
+  <h3 align="center">AI 3D T-Shirts</h3>
 </div>
 
 ##  <br /> 📋 <a name="table">Table of Contents</a>
