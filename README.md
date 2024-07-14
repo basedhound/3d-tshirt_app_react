@@ -103,7 +103,7 @@ OPENAI_API_KEY=
 
 Replace the placeholder values with your actual respective account credentials:
 
-- [OpenAI]([https://dashboard.clerk.com)](https://platform.openai.com/docs/overview)
+- [OpenAI](https://platform.openai.com)
 
 
 
