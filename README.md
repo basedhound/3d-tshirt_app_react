@@ -59,7 +59,7 @@
 
 👉 **Download Options**:Dynamically change the application theme based on the selected color, enhancing user experience.
 
-👉 **Theme Change with Color Selection**: Dynamically change the application theme based on the selected color, enhancing user experience
+👉 **Theme Change with Color Selection**: Dynamically change the application theme based on the selected color, enhancing user experience.
 
 👉 **Responsive 3D Application**: Ensure the application is responsive, delivering a seamless experience across various devices.
 
