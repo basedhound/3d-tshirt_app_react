@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://3d-tshirts-fv.netlify.app" target="_blank">
-      <img src="client/public/design/preview.webp" alt="Project Banner">
+      <img src="client/public/design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">AI 3D T-Shirts</h3>
 </div>
@@ -20,27 +20,29 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
+- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
-- **MongoDB** is a NoSQL database system known for its flexibility and scalability, ideal for handling large volumes of unstructured or semi-structured data. It stores data in JSON-like documents, making it easy to integrate with modern applications. MongoDB's features include powerful querying capabilities, automatic sharding for horizontal scaling, flexible data models, and support for distributed transactions in recent versions.
+- [**MongoDB**](https://www.mongodb.com/docs/atlas/getting-started/) is a NoSQL database system known for its flexibility and scalability, ideal for handling large volumes of unstructured or semi-structured data. It stores data in JSON-like documents, making it easy to integrate with modern applications. MongoDB's features include powerful querying capabilities, automatic sharding for horizontal scaling, flexible data models, and support for distributed transactions in recent versions.
 
-- **Three.js** is a JavaScript library that enables the creation and display of 3D computer graphics in web browsers using WebGL. It provides extensive capabilities for rendering 3D scenes, including support for geometries, materials, lighting, and animations.
+- [**Mongoose**](https://mongoosejs.com/docs/) is an Object Data Modeling (ODM) library for MongoDB and Node.js. It provides a schema-based solution to model application data, ensuring data consistency and providing powerful tools for querying and validation. Mongoose simplifies the process of interacting with MongoDB by providing a higher abstraction layer.
 
-- **Three Fiber** is a React binding to Three.js, enabling declarative 3D rendering in the browser using React components. It simplifies the creation of complex 3D scenes and animations by providing a React-friendly API for Three.js functionalities.
+- [**Three.js**](https://threejs.org/docs/) is a JavaScript library that enables the creation and display of 3D computer graphics in web browsers using WebGL. It provides extensive capabilities for rendering 3D scenes, including support for geometries, materials, lighting, and animations.
 
-- **Three Drei** is a collection of useful helpers and components for React Three Fiber. It includes abstractions for common Three.js patterns, such as lights, controls, and effects, making it easier to build sophisticated 3D applications with React and Three.js.
+- [**Three Fiber**](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) is a React binding to Three.js, enabling declarative 3D rendering in the browser using React components. It simplifies the creation of complex 3D scenes and animations by providing a React-friendly API for Three.js functionalities.
 
-- **Framer Motion** is a React animation library designed for creating smooth, interactive animations and transitions. It simplifies complex animations with a straightforward API, supports gesture-based interactions, and offers physics-based animations for realistic motion effects.
+- [**Three Drei**](https://github.com/pmndrs/drei) is a collection of useful helpers and components for React Three Fiber. It includes abstractions for common Three.js patterns, such as lights, controls, and effects, making it easier to build sophisticated 3D applications with React and Three.js.
 
-- **Tailwind** is a utility-first CSS framework that speeds up UI development by providing a set of pre-built utility classes. It allows developers to quickly build custom designs without writing traditional CSS, promoting rapid prototyping and design consistency.
+- [**Framer Motion**](https://www.framer.com/motion/) is a React animation library designed for creating smooth, interactive animations and transitions. It simplifies complex animations with a straightforward API, supports gesture-based interactions, and offers physics-based animations for realistic motion effects.
 
-- **Vite** is a modern build tool that focuses on fast development and optimized production builds. It serves as a lightning-fast frontend build tool that supports React, Vue, and TypeScript out of the box. Vite leverages native ES module imports to achieve instant hot module replacement (HMR) and fast cold starts.
+- [**Tailwind**](https://v2.tailwindcss.com/docs) is a utility-first CSS framework that speeds up UI development by providing a set of pre-built utility classes. It allows developers to quickly build custom designs without writing traditional CSS, promoting rapid prototyping and design consistency.
 
-- **Node.js** is a server-side JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to build scalable and efficient network applications using JavaScript. Node.js is commonly used for building APIs and server-side applications.
+- [**Vite**](https://vitejs.dev/guide/) is a modern build tool that focuses on fast development and optimized production builds. It serves as a lightning-fast frontend build tool that supports React, Vue, and TypeScript out of the box. Vite leverages native ES module imports to achieve instant hot module replacement (HMR) and fast cold starts.
 
-- **Express.js** is a minimal and flexible Node.js web application framework that provides a robust set of features for building web and mobile applications. It simplifies the process of creating powerful APIs and web servers with middleware and routing.
+- [**Node.js**](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) is a server-side JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to build scalable and efficient network applications using JavaScript. Node.js is commonly used for building APIs and server-side applications.
 
-- **OpenAI API** provides access to powerful artificial intelligence models developed by OpenAI. It allows developers to integrate cutting-edge natural language processing (NLP) capabilities, such as text generation and sentiment analysis, into their applications.
+- [**Express.js**](https://expressjs.com/) is a minimal and flexible Node.js web application framework that provides a robust set of features for building web and mobile applications. It simplifies the process of creating powerful APIs and web servers with middleware and routing.
+
+- [**OpenAI API**](https://platform.openai.com/docs/api-reference/introduction) provides access to powerful artificial intelligence models developed by OpenAI. It allows developers to integrate cutting-edge natural language processing (NLP) capabilities, such as text generation and sentiment analysis, into their applications.
 
 
 ## <br/> <a name="features">📝 Features</a>
