@@ -1,3 +1,5 @@
+
+
 <div align="center">
     <a href="https://3d-tshirts-fv.netlify.app" target="_blank">
       <img src="client/public/design/preview.png" alt="Project Banner">
@@ -59,7 +61,7 @@
 
 👉 **AI-Generated Textures**: Implement AI-generated textures for enhanced 3D shirt customization.
 
-👉 **Download Options**:Dynamically change the application theme based on the selected color, enhancing user experience.
+👉 **Download Options**: Download the customized 3D shirt as an image.
 
 👉 **Theme Change with Color Selection**: Dynamically change the application theme based on the selected color, enhancing user experience.
 
